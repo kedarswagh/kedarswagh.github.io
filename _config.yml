@@ -1,10 +1,14 @@
+
 title: Kedar Wagh # your name (or website title) here
 logo: "/images/21_mod.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Ph.D. Student, IMI Department, 
-  <br><br>
-  Indian Institute of Science (2020 - Present)
-  <br><br>
-  <a href="https://www.linkedin.com/in/kedar-wagh-12a923243">View My LinkedIn Profile</a> 
- 
- theme: jekyll-theme-minimal
+
+Ph.D. Student, IMI Department, 
+<br><br>
+
+Indian Institute of Science (2020 - Present)
+<br><br>
+<a href="https://www.linkedin.com/in/kedar-wagh-12a923243">View My LinkedIn Profile</a> 
+
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
