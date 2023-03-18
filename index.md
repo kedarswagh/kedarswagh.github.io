@@ -4,6 +4,6 @@ I'm a doctoral student in the <a href="https://cmg.cds.iisc.ac.in/" target="blan
 ---
 
 ## Research
-My research interests are in the development of higher-order discontinuous Gakerin (DG) methods and kinetic schemes for hyperbolic conservation laws with a primary focus on shock-capturing algorithms and entropy stability in such frameworks. I am also interested in developing genuinely multidimensional extensions for higher-order numerical methods for hyperbolic balance laws. Currently, I also experiment with augmenting DG solvers with machine learning techniques and the use of neural networks to approximate the solution of hyperbolic PDEs.
+My research interests are in the development of higher-order discontinuous Galerkin (DG) methods and kinetic schemes for hyperbolic conservation laws with a primary focus on shock-capturing algorithms and entropy stability in such frameworks. I am also interested in developing genuinely multidimensional extensions for higher-order numerical methods for hyperbolic balance laws. Currently, I also experiment with augmenting DG solvers with machine learning techniques and the use of neural networks to approximate the solution of hyperbolic PDEs.
 
 ---
